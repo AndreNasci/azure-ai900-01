@@ -33,7 +33,7 @@ Nessa etapa é preciso selecionar a coluna do *target*, ou *label*, que neste ca
 
 ![alt text](imgs/image-2.png)
 
-É importante ficar atento nesse passo a seleção da métrica primária, onde é usado **NormalizedRootMeanSquredError** (NRMSE), e a seleção dos modelos. Nesse exercício foram usado **RandomForest e LightGBM**.
+É importante ficar atento nesse passo à seleção da métrica primária, onde é usado **NormalizedRootMeanSquredError** (NRMSE), e à seleção dos modelos. Nesse exercício foram usado **RandomForest e LightGBM**.
 
 A próxima etapa é determinar os limites das configurações de tarefas:
 ![alt text](imgs/image-3.png)
